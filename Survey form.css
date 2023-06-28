@@ -1,0 +1,16 @@
+.form{
+    padding: 55px 0;
+    text-transform: capitalize;
+    font-size: 35px;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+}
+.container{
+    width: 700px;
+    height: 620px;
+    background-color:white;
+    margin-left: 25%;
+    margin-top: 3%;
+    text-align: center;
+    color:black;
+}
