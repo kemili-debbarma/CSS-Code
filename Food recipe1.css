@@ -1,0 +1,19 @@
+.logo{
+  width: 100%;
+  color:white;
+  background-image: linear-gradient(rgb(136, 136, 231) 60%,rgb(89, 207, 253) 20%);
+  padding-left: 10%;
+  box-sizing: border-box;
+}
+.logo h1{
+     width: 100%;
+     height: 100%;
+     text-transform: uppercase;
+     font-size: 2.6rem;
+     animation: malldi 5s linear infinite;
+     animation-direction: alternate;
+}
+@keyframes malldi{
+  from{padding-left: 60px;}
+  to{padding-right: 60px;}
+}
